@@ -30,3 +30,8 @@
 .center {
   text-align: center;
 }
+
+.card {
+  box-shadow: 0 0 100px 50px #0a57ca18;
+  border: none;
+}
